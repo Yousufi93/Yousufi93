@@ -42,7 +42,7 @@ A complete task manager with two interfaces:
 ## 📫 Contact Me
 
 - 📧 Email: ** hanifyousufi20@gmail.com **
-- 💼 LinkedIn: ** https://www.linkedin.com/in/Hanifa Yousufi **
+- 💼 LinkedIn: ** https://www.linkedin.com/in/HanifaYousufi **
 
 ---
 
